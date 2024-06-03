@@ -7,11 +7,16 @@ import {
   signInWithPopup,
   signOut,
 } from "firebase/auth";
-import { createContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 import app from "../firebase/firebase.config";
 
 const AuthContext = createContext(null);
 const auth = getAuth(app);
+
+// custom hook
+export const useAuth = () => {
+  return useContext(AuthContext);
+};
 
 const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
@@ -28,7 +33,7 @@ const AuthProvider = ({ children }) => {
   };
   const logOut = () => {
     setLoading(true);
-    return signOut(auth);
+    return signOut(auth).then(() => setUser(null));
   };
   const googleLogin = () => {
     setLoading(true);
@@ -39,7 +44,7 @@ const AuthProvider = ({ children }) => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       if (currentUser) {
         setUser(currentUser);
-        console.log(currentUser);
+        console.log("from AuthProvider", currentUser);
         setLoading(false);
       } else {
         setLoading(false);
@@ -50,9 +55,9 @@ const AuthProvider = ({ children }) => {
     });
   }, []);
 
-  const userInfo = { user, loading, createUser, signIn, logOut, googleLogin };
+  const authInfo = { user, loading, createUser, signIn, logOut, googleLogin };
   return (
-    <AuthContext.Provider value={userInfo}>{children}</AuthContext.Provider>
+    <AuthContext.Provider value={authInfo}>{children}</AuthContext.Provider>
   );
 };
 

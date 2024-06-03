@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2,
+    "title": "Maybelline New York Sky High Mascara",
+    "description": "Maybelline New York Sky High Mascara delivers full volume and limitless length. The exclusive Flex Tower mascara brush bends to volumize and extend every single lash.",
+    "category": "beauty",
+    "price": 11.99,
+    "discountPercentage": 5.0,
+    "rating": 4.8,
+    "stock": 10,
+    "tags": ["beauty", "mascara"],
+    "brand": "Maybelline",
+    "sku": "MBL45X1B",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Maybelline%20New%20York%20Sky%20High%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+    "description": "L'Oréal Paris Voluminous Lash Paradise Mascara creates intense volume and spectacular length with a soft wavy brush.",
+    "category": "beauty",
+    "price": 12.99,
+    "discountPercentage": 8.0,
+    "rating": 4.7,
+    "stock": 15,
+    "tags": ["beauty", "mascara"],
+    "brand": "L'Oréal",
+    "sku": "LOR56Y1C",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/LOreal%20Paris%20Voluminous%20Lash%20Paradise%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Benefit Cosmetics They’re Real! Mascara",
+    "description": "Benefit Cosmetics They’re Real! Mascara lengthens, curls, volumizes, lifts and separates lashes for a dramatic look.",
+    "category": "beauty",
+    "price": 24.99,
+    "discountPercentage": 10.0,
+    "rating": 4.6,
+    "stock": 8,
+    "tags": ["beauty", "mascara"],
+    "brand": "Benefit",
+    "sku": "BEN67Z1D",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Benefit%20Cosmetics%20Theyre%20Real%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Clinique High Impact Mascara",
+    "description": "Clinique High Impact Mascara kicks up the volume and length of each and every lash for a high-impact look.",
+    "category": "beauty",
+    "price": 19.99,
+    "discountPercentage": 7.5,
+    "rating": 4.5,
+    "stock": 12,
+    "tags": ["beauty", "mascara"],
+    "brand": "Clinique",
+    "sku": "CLN78Q2E",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Clinique%20High%20Impact%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "CoverGirl Lash Blast Volume Mascara",
+    "description": "CoverGirl Lash Blast Volume Mascara gives you voluminous, bold, and beautiful lashes that will last all day.",
+    "category": "beauty",
+    "price": 9.99,
+    "discountPercentage": 6.0,
+    "rating": 4.4,
+    "stock": 20,
+    "tags": ["beauty", "mascara"],
+    "brand": "CoverGirl",
+    "sku": "CVG89R3F",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 3 days",
+    "availabilityStatus": "In Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/CoverGirl%20Lash%20Blast%20Volume%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Too Faced Better Than Sex Mascara",
+    "description": "Too Faced Better Than Sex Mascara provides extreme volume, length, and drama with a collagen-fueled formula.",
+    "category": "beauty",
+    "price": 26.99,
+    "discountPercentage": 5.5,
+    "rating": 4.9,
+    "stock": 7,
+    "tags": ["beauty", "mascara"],
+    "brand": "Too Faced",
+    "sku": "TOF90S4G",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Too%20Faced%20Better%20Than%20Sex%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tarte Lights, Camera, Lashes 4-in-1 Mascara",
+    "description": "Tarte Lights, Camera, Lashes 4-in-1 Mascara lengthens, curls, volumizes, and conditions lashes for a stunning look.",
+    "category": "beauty",
+    "price": 23.99,
+    "discountPercentage": 4.5,
+    "rating": 4.7,
+    "stock": 9,
+    "tags": ["beauty", "mascara"],
+    "brand": "Tarte",
+    "sku": "TAR91T5H",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Tarte%20Lights%20Camera%20Lashes%204-in-1%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Lancôme Monsieur Big Mascara",
+    "description": "Lancôme Monsieur Big Mascara provides up to 12 times more volume and intense black color for bold lashes.",
+    "category": "beauty",
+    "price": 25.99,
+    "discountPercentage": 9.0,
+    "rating": 4.6,
+    "stock": 6,
+    "tags": ["beauty", "mascara"],
+    "brand": "Lancôme",
+    "sku": "LAN92U6I",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Lancome%20Monsieur%20Big%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Yves Saint Laurent Mascara Volume Effet Faux Cils",
+    "description": "Yves Saint Laurent Mascara Volume Effet Faux Cils creates dramatic, false-lash effects with intense volume and color.",
+    "category": "beauty",
+    "price": 29.99,
+    "discountPercentage": 7.0,
+    "rating": 4.8,
+    "stock": 4,
+    "tags": ["beauty", "mascara"],
+    "brand": "Yves Saint Laurent",
+    "sku": "YSL93V7J",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Yves%20Saint%20Laurent%20Mascara%20Volume%20Effet%20Faux%20Cils/1.png"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara",
+    "description": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara offers instant volume and length with a push-up effect.",
+    "category": "beauty",
+    "price": 27.99,
+    "discountPercentage": 6.0,
+    "rating": 4.7,
+    "stock": 5,
+    "tags": ["beauty", "mascara"],
+    "brand": "Charlotte Tilbury",
+    "sku": "CTL94W8K",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "Low Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Charlotte%20Tilbury%20Pillow%20Talk%20Push%20Up%20Lashes%20Mascara/1.png"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Urban Decay Perversion Mascara",
+    "description": "Urban Decay Perversion Mascara provides bigger, blacker, badder lashes with an ultra-creamy, lengthening, and volumizing formula.",
+    "category": "beauty",
+    "price": 22.99,
+    "discountPercentage": 7.5,
+    "rating": 4.5,
+    "stock": 10,
+    "tags": ["beauty", "mascara"],
+    "brand": "Urban Decay",
+    "sku": "URD95X9L",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "returnPolicy": "30 days return policy",
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Urban%20Decay%20Perversion%20Mascara/1.png"
+    ]
+  }
+]
